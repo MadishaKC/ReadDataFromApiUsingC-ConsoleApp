@@ -1,15 +1,5 @@
 {
 	"servers": {
-		"MongoDB": {
-			"type": "stdio",
-			"command": "npx",
-			"args": [
-				"-y",
-				"mongodb-mcp-server",
-				"--connectionString",
-				"mongodb://localhost:27019/flow_builder"
-			]
-		},
 		"duckduckgo": {
 			"command": "docker",
 			"args": [
