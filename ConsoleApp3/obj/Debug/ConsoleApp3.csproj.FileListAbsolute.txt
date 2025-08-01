@@ -1,0 +1,20 @@
+C:\Users\cyril\OneDrive\Documents\Practice Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\cyril\OneDrive\Documents\Practice Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\cyril\OneDrive\Documents\Practice Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\cyril\OneDrive\Documents\Practice Projects\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cyril\OneDrive\Documents\Practice Projects\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cyril\OneDrive\Documents\Practice Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\cyril\OneDrive\Documents\Practice Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\cyril\OneDrive\Documents\Practice Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleA.88426B56.Up2Date
+C:\Users\cyril\OneDrive\Documents\Practice Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\cyril\OneDrive\Documents\Practice Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\cyril\OneDrive\Desktop\GitHub\Upload to GitHub\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\cyril\OneDrive\Desktop\GitHub\Upload to GitHub\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\cyril\OneDrive\Desktop\GitHub\Upload to GitHub\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\cyril\OneDrive\Desktop\GitHub\Upload to GitHub\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\cyril\OneDrive\Desktop\GitHub\Upload to GitHub\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\cyril\OneDrive\Desktop\GitHub\Upload to GitHub\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\cyril\OneDrive\Desktop\GitHub\Upload to GitHub\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cyril\OneDrive\Desktop\GitHub\Upload to GitHub\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cyril\OneDrive\Desktop\GitHub\Upload to GitHub\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\cyril\OneDrive\Desktop\GitHub\Upload to GitHub\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleA.88426B56.Up2Date
