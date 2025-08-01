@@ -6,7 +6,7 @@ ConsoleApp3 is a C# console application designed to process and manage movie dat
 ## Features
 - Reads and processes movie data
 - Utilizes DTOs for data transfer
-- Handles JSON serialization/deserialization with Newtonsoft.Json
+- Handles JSON serialization/deserialization with Newtonsoft.Json 
 
 ## Project Structure
 - `Program.cs`: Main entry point of the application
